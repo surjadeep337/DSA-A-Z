@@ -24,4 +24,4 @@ int main() {
     cout << gcd(a, b);
 
     return 0;
-}
+}cd
